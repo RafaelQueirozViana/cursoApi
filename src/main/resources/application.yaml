@@ -15,14 +15,3 @@ spring:
         format_sql: true
         dialect: org.hibernate.dialect.MySQLDialect
 
-
-Esse é meu projeto em java
-  Adicionar endpoints do curso
-  Get all
-  Get by id
-  Delete by id
-  Put
-  Post
-  Refatorar o service do instrutor para usar o mapstruct
-  Remover o qualquer mapeamento manual ou função de mapeamento no InstrutorService
-  Instrutor não precisa voltar com a lista de curso
